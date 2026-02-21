@@ -177,7 +177,7 @@ Errors use the same shape with `success: false` and appropriate HTTP status.
 
 ## Docker
 
-Run the whole stack (app + PostgreSQL + Redis) with one command:
+Run the whole stack (app + MongoDB + Redis) with one command:
 
 ```bash
 docker-compose up --build
